@@ -1,2 +1,2 @@
-const a =100;
 conqt b = () => {};
+const c = "Hi there ";
