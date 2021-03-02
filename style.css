@@ -10,3 +10,9 @@ body {
   p {
     color: yellow;
   }
+
+  form {
+    margin: 20px;
+    padding: 30px;
+  }
+
