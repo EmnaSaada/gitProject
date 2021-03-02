@@ -1,1 +1,1 @@
-
+const c = "Hi there ";
